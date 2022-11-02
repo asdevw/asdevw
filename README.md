@@ -21,7 +21,7 @@
   </a>
     </a>
     <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Linux-#2d545e?style=for-the-badge&logo=fedora&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=fedora&logoColor=white" alt="Twitter Badge"/>
   </a>
       <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
