@@ -36,6 +36,6 @@
     <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white" alt="Twitter Badge"/>
   </a>
           <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=golang&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
