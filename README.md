@@ -8,9 +8,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -24,5 +22,8 @@
     </a>
     <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=fedora&logoColor=white" alt="Twitter Badge"/>
+  </a>
+      <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
