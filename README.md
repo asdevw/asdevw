@@ -21,4 +21,8 @@
     <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoColor=white" alt="Twitter Badge"/>
   </a>
+    </a>
+    <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
