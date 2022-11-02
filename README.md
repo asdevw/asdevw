@@ -23,6 +23,6 @@
   </a>
     </a>
     <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=fedorAa&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=fedora&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
