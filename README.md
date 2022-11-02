@@ -29,4 +29,7 @@
         <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/RestAPI-black?style=for-the-badge&logo=restapi&logoColor=white" alt="Twitter Badge"/>
   </a>
+          <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/RestAPI-black?style=for-the-badge&logo=html&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
